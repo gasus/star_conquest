@@ -1,3 +1,3 @@
 # Play
 
-https://starconquest.netlify.app/
+https://gasus.github.io/star_conquest/
